@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hummus",
+    "percentage": 0.35,
+    "companyImage": "hummus.png",
+    "food": ["food"],
+    "likes": 0.92,
+    "comments": 800
+  },
+  {
+    "name": "Ali Abi Pide ve Kebap Salonu",
+    "percentage": 0.35,
+    "companyImage": "kebap.png",
+    "food": ["kebap"],
+    "likes": 0.92,
+    "comments": 800
+  },
+  {
+    "name": "Usta Donerci",
+    "percentage": 0.35,
+    "companyImage": "doner.png",
+    "food": ["doner"],
+    "likes": 0.92,
+    "comments": 800
+  },
+  {
+    "name": "Zaza trattoria",
+    "percentage": 0.20,
+    "companyImage": "bistecca.png",
+    "food": ["meat"],
+    "likes": 0.92,
+    "comments": 900
+  },
+  {
+    "name": "SushiCo",
+    "percentage": null,
+    "companyImage": "sushi.png",
+    "food": ["sushi", "traditional"],
+    "likes": 0.90,
+    "comments": 100
+  }
+]
