@@ -218,7 +218,7 @@ fun ListScreen(modifier: Modifier = Modifier) {
                                 } else {
                                     Text(
                                         text = "(${company.comments})",
-                                        style = MaterialTheme.typography.titleMedium.copy(fontSize = 16.sp),
+                                        style = MaterialTheme.typography.titleMedium.copy(fontSize = 12.sp),
                                         fontWeight = FontWeight.Thin
                                     )
                                 }
