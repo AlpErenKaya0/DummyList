@@ -7,5 +7,6 @@ data class CompanyDatas(
     val companyImage: String,
     val food: List<String>,
     val likes: Double,
+    val distance : Int,
     val comments: Int
 )
